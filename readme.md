@@ -1,0 +1,4 @@
+# Just as Memoization technique in Javascript. There are more techniques like time based expiration and for the edge case like using global variable in caching so we need to modify our code according to that
+
+## What is Memoization
+# Memoization is a technique storing the Fixed result of some function that we might need in our program later. By doing so our App wont take time for same calculation it will fetch stored result for same input and avoid un-necessary calculation and time. By Doing so, we are optimizing our app. There are more techniques where we need result only for a specific time and after that we do not need that such stock market prices and weather news. They are keep updating with time so we can write our code in a sense it will not take stale result.
